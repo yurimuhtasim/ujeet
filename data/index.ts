@@ -42,7 +42,7 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    label:'blockraid',
+    label: "blockraid",
     title: "Blockchain - Website",
     des: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore, ipsa!",
     img: "/img/1.jpeg",
@@ -51,7 +51,7 @@ export const projects = [
   },
   {
     id: 2,
-    label:'blockraid',
+    label: "blockraid",
     title: "Multichain Explorer",
     des: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore, ipsa!",
     img: "/img/2.jpeg",
@@ -60,7 +60,7 @@ export const projects = [
   },
   {
     id: 3,
-    label:'ujeet',
+    label: "ujeet",
     title: "Ujeet chat",
     des: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore, ipsa!",
     img: "/img/3.jpeg",
